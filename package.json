@@ -6,6 +6,6 @@
   "scripts": {
     "dev": "nodemon server.ts"
   },
-  "author": "Dhruvil T",
+  "author": "Dhruvil Th",
   "license": "ISC"
 }
